@@ -1,1 +1,1 @@
-# story-mode-content
+# Content for playstorymode.com
